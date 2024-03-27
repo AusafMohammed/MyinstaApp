@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyInstaApp</string>
+    <string name="back4app_client_key">3WxrAQZdF3EVFvluOPN13qM4UH1xjmGBu2DjEvMc</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">"5uH4odCeN4PBxd2TLBicf3Vq4fYpjsvPXupCHJwg "</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
